@@ -1,0 +1,23 @@
+﻿#Enlaces {
+    text-align:center;
+}
+#Título {
+    text-align:center;
+}
+#Subtítulo {
+    text-align: center;
+    margin-bottom: -17px;
+}
+div.texto {
+    float: left;
+    margin-right: 25px;
+    width: 148px;
+    text-align:right;
+}
+#cmdEnviar {
+    margin-top: 20px;
+    margin-left: 550px;
+}
+div{
+    margin-top: 5px;
+}
